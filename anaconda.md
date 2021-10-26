@@ -22,3 +22,6 @@ Use the below command to activate your environment
 To deactivate an active environment, use
 
 ```conda deactivate```
+
+To delete an env on conda
+```conda remove py37```
