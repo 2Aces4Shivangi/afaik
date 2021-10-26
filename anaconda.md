@@ -18,3 +18,7 @@ Create a new environment named py35, install Python 3.7
 Use the below command to activate your environment
 
 ```conda activate py37```
+
+To deactivate an active environment, use
+
+```conda deactivate```
