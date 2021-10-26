@@ -24,4 +24,5 @@ To deactivate an active environment, use
 ```conda deactivate```
 
 To delete an env on conda
+
 ```conda remove py37```
